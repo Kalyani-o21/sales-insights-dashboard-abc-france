@@ -92,17 +92,7 @@ sales-insights-dashboard-abc-france/
 
 ## Dashboard Preview
 
-A dashboard screenshot should be added before featuring this repository on LinkedIn.
-
-1. Open the PBIX file in Power BI Desktop.
-2. Display the complete report page and hide unnecessary side panels.
-3. Take a clear screenshot.
-4. Save it as `screenshots/dashboard-overview.png`.
-5. Replace this paragraph with:
-
-```markdown
-![Sales Insights Dashboard](screenshots/dashboard-overview.png)
-```
+![Sales Insights Dashboard](screenshots/dashboard-overview.png) 
 
 ## How to Explore the Project
 
